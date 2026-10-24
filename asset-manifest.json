@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Transitions-All/static/css/main.b4b365c1.css",
-    "main.js": "/React-Transitions-All/static/js/main.099aef69.js",
-    "static/js/787.28cb0dcd.chunk.js": "/React-Transitions-All/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/React-Transitions-All/static/css/main.bea844ef.css",
+    "main.js": "/React-Transitions-All/static/js/main.b5bc1968.js",
+    "static/js/453.35732811.chunk.js": "/React-Transitions-All/static/js/453.35732811.chunk.js",
     "static/media/card_use.jpg": "/React-Transitions-All/static/media/card_use.a99b88f9cf5eabc79bb4.jpg",
     "static/media/CWindy.jpeg": "/React-Transitions-All/static/media/CWindy.921c30584f25cadfd53c.jpeg",
     "static/media/ClowCardSideB.jpg": "/React-Transitions-All/static/media/ClowCardSideB.b5be1024a2e13d3df90d.jpg",
     "index.html": "/React-Transitions-All/index.html",
-    "main.b4b365c1.css.map": "/React-Transitions-All/static/css/main.b4b365c1.css.map",
-    "main.099aef69.js.map": "/React-Transitions-All/static/js/main.099aef69.js.map",
-    "787.28cb0dcd.chunk.js.map": "/React-Transitions-All/static/js/787.28cb0dcd.chunk.js.map"
+    "main.bea844ef.css.map": "/React-Transitions-All/static/css/main.bea844ef.css.map",
+    "main.b5bc1968.js.map": "/React-Transitions-All/static/js/main.b5bc1968.js.map",
+    "453.35732811.chunk.js.map": "/React-Transitions-All/static/js/453.35732811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4b365c1.css",
-    "static/js/main.099aef69.js"
+    "static/css/main.bea844ef.css",
+    "static/js/main.b5bc1968.js"
   ]
 }
