@@ -1,6 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./css/Flip.css";
 import { NavLink } from "react-router-dom";
+import cardUse from "./../image/card_use.jpg";
+import cWindy from "./../image/CWindy.jpeg";
+import clowCardSideB from "./../image/ClowCardSideB.jpg";
 
 export const Flip = () => {
     const [isFlipped, setIsFlipped] = useState(false);
@@ -57,7 +60,7 @@ export const Flip = () => {
 
             <div className="page_container">
                 <div className={`page ${isFlipped2 ? "flipped" : ""}`}>
-                    <img src={require("./../image/card_use.jpg")} alt="123" />
+                    <img src={cardUse} alt="123" />
                 </div>
                 <div className={`page ${isFlipped2 ? "" : "flipped"}`}>俗話說的好，掌握思考過程，也就掌握了唐納將軍的一生。若發現問題比我們想像的還要深奧，那肯定不簡單。每個人都不得不面對這些問題。在面對這種問題時，務必詳細考慮唐納將軍的一生的各種可能。</div>
 
@@ -74,8 +77,8 @@ export const Flip = () => {
 
             {/* 庫洛牌翻轉 */}
             <div className="magic_page_container">
-                <img src={require("./../image/CWindy.jpeg")} alt="123" className={`magic_card`} />
-                <img src={require("./../image/ClowCardSideB.jpg")} alt="123" className={`magic_card magic_page`} />
+                <img src={cWindy} alt="123" className={`magic_card`} />
+                <img src={clowCardSideB} alt="123" className={`magic_card magic_page`} />
             </div>
 
             <NavLink to="/">
