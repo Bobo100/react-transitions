@@ -10,7 +10,7 @@ import NotFoundPage from './pages/Error';
 function App() {
   return (
     <>
-      <Router basename='/React-Transitions-All'>
+      <Router basename={import.meta.env.BASE_URL}>
         <div className='pages'>
           <Routes>
             <Route path="/" element={<Home />} />
